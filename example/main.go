@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/theorx/go_routine_pool"
+	"github.com/theorx/go-routine-pool"
 	"sync"
 	"sync/atomic"
 	"time"

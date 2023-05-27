@@ -7,8 +7,8 @@
 
 ## Usage
 
-* `go get github.com/theorx/go_routine_pool`
-* `import "github.com/theorx/go_routine_pool"`
+* `go get github.com/theorx/go-routine-pool`
+* `import "github.com/theorx/go-routine-pool"`
 * Main concept of controlling the number of goroutines processing is using `Allocate()` and `Release()` calls
     * Both of them are blocking in case the pool is full (Completely exhausted, busy)
 
